@@ -61,11 +61,6 @@ cmake --build build --config Release
 The first build will take a while — CMake's `FetchContent` downloads JUCE itself
 the first time. After that, rebuilds are much faster.
 
-**Tip:** if you hit an out-of-memory / heap error mid-build (like on HYPER SCAPE),
-try building again — sometimes it's just a low-memory moment — and consider
-closing other heavy apps (browser, DAW) while it compiles, since MSVC can be
-memory-hungry compiling JUCE's GUI code.
-
 ## Output location
 
 After a successful build:
