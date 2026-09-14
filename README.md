@@ -1,5 +1,7 @@
 # Chocola
 
+<img width="250" height="340" alt="image" src="https://github.com/user-attachments/assets/df236cd1-e2fa-4c5c-bff7-b4cd80abb151" />
+
 A one-knob "crazy wide" stereo effect for vocals, drums, snares, claps — anything
 you want to blow up into a huge stereo image. Brown-themed sibling to HYPER SCAPE.
 
