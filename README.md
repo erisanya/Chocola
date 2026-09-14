@@ -48,7 +48,7 @@ knob to reset it to 0%.
 
 ## Building on Windows
 
-1. Unzip this project to `C:\Chocola`
+1. Unzip this project.
 2. Open the **Developer PowerShell for VS** (Start menu → your Visual Studio version)
 3. Run:
 
