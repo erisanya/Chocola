@@ -53,7 +53,7 @@ knob to reset it to 0%.
 3. Run:
 
 ```powershell
-cd C:\Chocola
+cd C:\*YOUR-PATH*
 cmake -B build
 cmake --build build --config Release
 ```
